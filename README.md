@@ -3,7 +3,7 @@
 ### Firstly set up env variables:
 Setting up environment variables to connect to server and to choose the port for the server etc.
 
-Create a .evn file if it does not already exists with variables with names:
+Create a .evn file if it does not already exists and use variables with names:
 >REACT_APP_SERVER_IP = 127.0.0.1 - IP for the server. Only needed if server is started on another machine: Default = 127.0.0.1 <br />
 REACT_APP_SERVER_PORT = 4500 - Port for the server: Default = 4500 <br />
 PORT = 3000 - Port for the REACT application: Default = 3000 <br />
