@@ -1,1 +1,93 @@
-{"users":[{"id":0,"name":"Philip Bäckström123232","username":"smekarn7","password":"89f0514b57cb14b00e409eef18e89408"},{"id":1,"name":"Karl","username":"kalle","password":"9214a50743c4c249d0e115fbd0752a1b"},{"id":2,"name":"Osckar JL","username":"oscarjl","password":"89f0514b57cb14b00e409eef18e89408"},{"id":3,"name":"DJiuawjd","username":"jdiwajd","password":"85519c87984fd90f4ed113d34896f334"}],"messages":[{"url":"localhost/messages/id","id":0,"message":"Hello, this is a message!","userId":0,"timestamp":"2022-04-01 00:38:57"},{"url":"localhost/messages/id","id":1,"message":"Oh very COol!","userId":0,"timestamp":"2022-04-01 00:39:14"},{"url":"localhost/messages/id","id":2,"message":"Waaow call me mayube?","userId":0,"timestamp":"2022-04-01 00:39:22"},{"url":"localhost/messages/id","id":3,"message":"This is msg","userId":0,"timestamp":"2022-04-01 15:49:56"},{"url":"localhost/messages/id","id":4,"message":"dwadaw","userId":1,"timestamp":"2022-04-01 15:50:42"},{"url":"localhost/messages/id","id":5,"message":"dfjwaeuidjawi","userId":0,"timestamp":"2022-04-01 16:10:05"},{"url":"localhost/messages/id","id":6,"message":"djhwuahduaw","userId":0,"timestamp":"2022-04-01 16:49:52"},{"url":"localhost/messages/id","id":7,"message":"Hejsan jag heter osckar o 'är geh","userId":2,"timestamp":"2022-04-01 16:54:33"},{"url":"localhost/messages/id","id":8,"message":"dwadawdaw","userId":0,"timestamp":"2022-04-03 17:23:46"}]}
+{
+    "users": [
+        {
+            "id": 0,
+            "name": "Philip Bäckström123232",
+            "username": "smekarn7",
+            "password": "89f0514b57cb14b00e409eef18e89408"
+        },
+        {
+            "id": 1,
+            "name": "Karl",
+            "username": "kalle",
+            "password": "9214a50743c4c249d0e115fbd0752a1b"
+        },
+        {
+            "id": 2,
+            "name": "Osckar JL",
+            "username": "oscarjl",
+            "password": "89f0514b57cb14b00e409eef18e89408"
+        },
+        {
+            "id": 3,
+            "name": "DJiuawjd",
+            "username": "jdiwajd",
+            "password": "85519c87984fd90f4ed113d34896f334"
+        }
+    ],
+    "messages": [
+        {
+            "url": "localhost/messages/id",
+            "id": 0,
+            "message": "Hello, this is a message!",
+            "userId": 0,
+            "timestamp": "2022-04-01 00:38:57"
+        },
+        {
+            "url": "localhost/messages/id",
+            "id": 1,
+            "message": "Oh very COol!",
+            "userId": 0,
+            "timestamp": "2022-04-01 00:39:14"
+        },
+        {
+            "url": "localhost/messages/id",
+            "id": 2,
+            "message": "Waaow call me mayube?",
+            "userId": 0,
+            "timestamp": "2022-04-01 00:39:22"
+        },
+        {
+            "url": "localhost/messages/id",
+            "id": 3,
+            "message": "This is msg",
+            "userId": 0,
+            "timestamp": "2022-04-01 15:49:56"
+        },
+        {
+            "url": "localhost/messages/id",
+            "id": 4,
+            "message": "dwadaw",
+            "userId": 1,
+            "timestamp": "2022-04-01 15:50:42"
+        },
+        {
+            "url": "localhost/messages/id",
+            "id": 5,
+            "message": "dfjwaeuidjawi",
+            "userId": 0,
+            "timestamp": "2022-04-01 16:10:05"
+        },
+        {
+            "url": "localhost/messages/id",
+            "id": 6,
+            "message": "djhwuahduaw",
+            "userId": 0,
+            "timestamp": "2022-04-01 16:49:52"
+        },
+        {
+            "url": "localhost/messages/id",
+            "id": 7,
+            "message": "Hejsan jag heter osckar o 'är geh",
+            "userId": 2,
+            "timestamp": "2022-04-01 16:54:33"
+        },
+        {
+            "url": "localhost/messages/id",
+            "id": 8,
+            "message": "dwadawdaw",
+            "userId": 0,
+            "timestamp": "2022-04-03 17:23:46"
+        }
+    ]
+}
