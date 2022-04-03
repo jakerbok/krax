@@ -1,0 +1,134 @@
+.App {
+  text-align: center;
+}
+
+.Main-header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  position: sticky;
+  top: 0;
+}
+
+.Main-header-line {
+  background: rgb(56, 42, 255);
+  color: white;
+}
+
+.Seperator-line {
+  background: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  padding-bottom: 40px;
+}
+
+.App-link {
+  color: rgb(0, 0, 0);
+}
+
+.LoginModal-body {
+  background-color: #ffffff;
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  font-size: calc(10px + 2vmin);
+  color: rgb(255, 255, 255);
+}
+
+.UserProfile-body {
+  min-height: 180px;
+  width: 1000px;
+  background: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 100px;
+}
+
+.UserList-body {
+  min-height: 180px;
+  width: 1000px;
+  background: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 100px;
+}
+
+.UserList-ItemBody {
+  padding-bottom: 25px;
+}
+
+.UserDetail-TextViews {
+  min-height: 180px;
+  width: 300px;
+  background: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 100px;
+}
+
+.UserProfile-TextViews {
+  min-height: 350px;
+  width: 300px;
+  background: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.Generic-body {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 30px;
+  justify-content: space-around;
+  color: rgb(0, 0, 0);
+}
+
+.msgBorder {
+  min-height: 180px;
+  width: 1000px;
+  background: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 100px;
+}
+
+.msgBorder1 {
+  min-height: 180px;
+  min-width: 500px;
+  background: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  color: black;
+}
+
+.CreateUser-body {
+  background-color: #ffffff;
+  min-height: 25vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  font-size: calc(10px + 2vmin);
+  color: rgb(255, 255, 255);
+}
