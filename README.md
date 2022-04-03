@@ -24,3 +24,14 @@ Save the .env file in root folder for the React project.<br />
 Stand in the root folder and use the command: "npm run start-all" to start both the server and the React application. <br /> 
 If you only want to start the React application use the command: "npm start". <br />
 If you only want to start the server, traverse into ./root/server and use command "npm start" to start the server. <br />
+
+# Application usage
+
+1. Start with creating a user by using the button "Sign up" in the top right corner.
+2. Sign in with the user you just created by closing the "Sign up" window and press "Sign in".
+3. Now you can go through the different tabs and also add messages by writing in the textbox and pressing "Send message". 
+
+To change user information press the tab with your name on it and update user. <br />
+There is a user list where you can view all of the users by using the "Users" tab. <br />
+To view user information you can press the users name under "Users" tab or click their name on a message they have created. <br />
+You can only create a message if you are logged in. <br />
